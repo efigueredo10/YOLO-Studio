@@ -1,0 +1,17 @@
+services:
+  db:
+    image: postgres:16
+    container_name: yolo_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: yolo_user
+      POSTGRES_PASSWORD: yolo_pass
+      POSTGRES_DB: yolo_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db:/docker-entrypoint-initdb.d  # scripts automáticos de inicialização
+
+volumes:
+  postgres_data:
