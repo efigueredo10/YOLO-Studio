@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dataset-management",
+      "description": "A placeholder image for dataset management.",
+      "imageUrl": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXRhJTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NjI2OTUxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data management"
+    },
+    {
+      "id": "model-training",
+      "description": "A placeholder image for model training.",
+      "imageUrl": "https://images.unsplash.com/photo-1555255707-c07966088b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYWNoaW5lJTIwbGVhcm5pbmd8ZW58MHx8fHwxNzYyNjM1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "machine learning"
+    },
+    {
+      "id": "model-testing",
+      "description": "A placeholder image for model testing.",
+      "imageUrl": "https://images.unsplash.com/photo-1558522190-ca33f78e1fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvYmplY3QlMjBkZXRlY3Rpb258ZW58MHx8fHwxNzYyNjk1MTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "object detection"
+    },
+    {
+      "id": "video-sources",
+      "description": "A placeholder image for video sources.",
+      "imageUrl": "https://images.unsplash.com/photo-1613031729579-ace1feefda4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aWRlbyUyMHN0cmVhbXxlbnwwfHx8fDE3NjI2OTUxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video stream"
+    }
+  ]
+}
