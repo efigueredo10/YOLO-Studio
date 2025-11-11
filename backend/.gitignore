@@ -1,0 +1,34 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.so
+*.dylib
+
+# pytest
+.cache/
+.pytest_cache/
+
+#
