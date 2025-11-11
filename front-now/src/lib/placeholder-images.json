@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "home-training",
+      "description": "A robot looking at a screen with data, representing model training.",
+      "imageUrl": "https://images.unsplash.com/photo-1597007519573-0575fd4cc96b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyb2JvdCUyMHRyYWluaW5nfGVufDB8fHx8MTc2MjgxNjk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot training"
+    },
+    {
+      "id": "home-testing",
+      "description": "A stylized drawing of a security camera, representing model testing.",
+      "imageUrl": "https://images.unsplash.com/photo-1729109938158-e797edca4cc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYW1lcmElMjBkcmF3aW5nfGVufDB8fHx8MTc2MjgxNjk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camera drawing"
+    },
+    {
+      "id": "home-sources",
+      "description": "A video production mixing board, representing multiple video sources.",
+      "imageUrl": "https://images.unsplash.com/photo-1595520467722-98c9fd0f8fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMG1peGVyfGVufDB8fHx8MTc2MjgxNjk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video mixer"
+    },
+    {
+      "id": "home-models",
+      "description": "An abstract network of glowing nodes, representing managed models.",
+      "imageUrl": "https://images.unsplash.com/photo-1658963658597-58f336d455ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBuZXR3b3JrfGVufDB8fHx8MTc2Mjc2NDMwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract network"
+    }
+  ]
+}
